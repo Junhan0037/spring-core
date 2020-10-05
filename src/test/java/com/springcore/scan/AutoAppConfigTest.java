@@ -1,5 +1,6 @@
-package com.springcore;
+package com.springcore.scan;
 
+import com.springcore.AutoAppConfig;
 import com.springcore.member.MemberService;
 import org.junit.jupiter.api.Test;
 import org.springframework.context.ApplicationContext;
