@@ -1,9 +1,10 @@
-# spring-core ![Java_11](https://img.shields.io/badge/java-v11-red?logo=java) ![Spring_Boot](https://img.shields.io/badge/Spring_Boot-v2.3.4-green.svg?logo=spring)
+# 스프링 핵심 원리 - 기본편 ![Java_11](https://img.shields.io/badge/java-v11-red?logo=java) ![Spring_Boot](https://img.shields.io/badge/Spring_Boot-v2.3.4-green.svg?logo=spring)
 
-스프링 핵심 원리 - 기본편
+<img src="src/main/resources/images/core.png"></img>
 
-## 목록
+## 학습 목차
 
+<img src="src/main/resources/images/core2.png"></img>
 #### 1. [회원 도메인 설계, 개발, 테스트](https://github.com/Junhan0037/spring-core/pull/1)
 #### 2. [주문과 할인 도메인 설계, 개발, 테스트](https://github.com/Junhan0037/spring-core/pull/2)
 #### 3. [객체 지향 원리 적용](https://github.com/Junhan0037/spring-core/pull/3)
